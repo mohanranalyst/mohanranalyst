@@ -34,6 +34,28 @@ Analyzed 9,994 rows of retail sales data to identify top-performing regions, cat
 
 ---
 
+### 2. HR Analytics Dashboard
+> Tools: SQL | Python | Power BI
+
+Analyzed IBM HR dataset of 1,470 employees to identify attrition patterns across departments, age groups, and job roles. Built a Power BI dashboard with KPIs: Total Employees, Attrition Rate (16.12%), Avg Salary, and Avg Years at Company.
+
+**Key Insights:** Sales dept had highest attrition (20%+), employees aged 26-35 were most affected, lower income correlated with higher attrition.
+
+🔗 [View Project](https://github.com/mohanranalyst/HR-Analytics-Dashboard)
+
+---
+
+### 3. Finance Analytics Dashboard
+> Tools: SQL | Python | Power BI
+
+Analyzed financial sample dataset with 700 rows across 6 countries and 6 products. Built a Power BI dashboard tracking Gross Sales (127.93M), Profit (16.89M), Units Sold (1.13M), and Profit Margin % (13.21%).
+
+**Key Insights:** USA is top revenue country, Paseo is most profitable product, Government segment leads with 44% of sales, peak sales in October-November.
+
+🔗 [View Project](https://github.com/mohanranalyst/Finance-Analytics-Dashboard)
+
+---
+
 ## 💼 Services I Offer
 
 - Power BI dashboard creation for sales, finance, HR, and operations
@@ -47,7 +69,7 @@ Analyzed 9,994 rows of retail sales data to identify top-performing regions, cat
 
 ## 📬 Let's Work Together
 
-- 💼 **Upwork:** *(https://www.upwork.com/freelancers/~01f1a46bcf0726b395?mp_source=share)*
+- 💼 **Upwork:** https://www.upwork.com/freelancers/~01f1a46bcf0726b395
 - 📍 **Location:** Pondicherry, India
 - 🕐 **Availability:** 12 hours/day | Open to freelance and remote projects
 - 📧 **Open to:** Short-term tasks, long-term contracts, dashboard projects
